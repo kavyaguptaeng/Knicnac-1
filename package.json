@@ -1,0 +1,26 @@
+{
+  "name": "earnz-1",
+  "version": "1.0.0",
+  "description": "EarnZ-1 Organization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavyaguptaeng/EarnZ-1.git"
+  },
+  "author": "SumitPathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavyaguptaeng/EarnZ-1/issues"
+  },
+  "homepage": "https://github.com/kavyaguptaeng/EarnZ-1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4",
+    "nodemon": "^2.0.20"
+  }
+}
